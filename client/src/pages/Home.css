@@ -1,0 +1,32 @@
+body{
+    background-color: #ff8000
+
+}
+.title{
+    font-family: Takeaway Sans Campaign,Avant Garde,Century Gothic,Helvetica,Arial,sans-serif;
+    margin-top: 1%;
+  margin-left: 38%;
+    color: white;
+    font-size: 30px;
+}
+img{
+    max-height: 70vw;
+    height: calc(100vh - 301px);
+    background-repeat: no-repeat;
+    background-position-y: calc(49% - 9vw);
+    height: 70vw;
+    background-size: 100%;
+    background-position-x: 50%;
+}
+.title1{
+    font-family: Takeaway Sans Campaign,Avant Garde,Century Gothic,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    margin-left: 38%;
+    margin-top: 10%;
+    font-variant-ligatures: common-ligatures;
+    font-feature-settings: "liga","clig";
+    color: #fff;
+    font-size: 50px;
+    line-height: 1;
+    margin-bottom: 0;
+}

@@ -1,0 +1,15 @@
+
+div.option{
+    border: 1px solid #c8c8c8;
+    border-radius: 3px;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    justify-content: center;
+    background-color: white;
+    margin-right: 62%;
+}
+div .option :hover{
+    color: rgb(76, 126, 161);
+}
+

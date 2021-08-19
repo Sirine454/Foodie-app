@@ -1,0 +1,5 @@
+export const GET_MENUS_SUCCESS = "GET_MENUS_SUCCESS";
+export const GET_MENUS_FAIL = "GET_MENUS_FAIL";
+export const GET_MENUS_LOAD = "GET_MENUS_LOAD";
+
+export const GET_ONE_MENU_SUCCESS = "GET_ONE_MENU_SUCCESS";

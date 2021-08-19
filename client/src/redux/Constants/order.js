@@ -1,0 +1,7 @@
+export const GET_ORDER_LOAD = "GET_ORDER_LOAD";
+export const GET_ORDER_SUCCESS = "GET_ORDER_SUCCESS";
+export const GET_ORDER_FAIL = "GET_ORDER_FAIL";
+
+export const POST_ORDER_LOAD = " POST_ORDER_LOAD";
+export const POST_ORDER_SUCCESS = " POST_ORDER_SUCCESS";
+export const POST_ORDER_FAIL = " POST_ORDER_FAIL";
